@@ -1,0 +1,14 @@
+﻿{
+  "Id": "lsKaAe8dLkeYT1NH8_FsTA",
+  "Reference": "J_mmPfVOEkONRx52zuZDrA/lsKaAe8dLkeYT1NH8_FsTA",
+  "ParentRef": "J_mmPfVOEkONRx52zuZDrA/WddZlP97cE-xvEc2sEhMbg",
+  "Name": "Click 'Open'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-06-09T00:41:40.3649602Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-09T00:41:40.3649602Z"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "ecmWeSxigEKH7xmUW1iuLA",
+  "Reference": "J_mmPfVOEkONRx52zuZDrA/ecmWeSxigEKH7xmUW1iuLA",
+  "ParentRef": "J_mmPfVOEkONRx52zuZDrA/WddZlP97cE-xvEc2sEhMbg",
+  "Name": "Get Text 'Your success'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-06-09T18:19:56.3661777Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-09T18:19:56.3661777Z"
+}

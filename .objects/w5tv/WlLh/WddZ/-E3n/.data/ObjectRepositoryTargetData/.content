@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="amBctlnpaUiZx2TM4l21AQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="692, 36, 33, 30" DesignTimeScaleFactor="1" ElementType="Toolbar" FriendlyName="'Address band toolbar'" FullSelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Address band toolbar' /&gt;" FuzzySelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Address band toolbar' check:text='Address band toolbar' /&gt;" Guid="a4effc0c-021c-4625-9f70-81c94e1affaf" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACUAAAAiCAYAAADYmxC7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACwSURBVFhH7c5BCgMhDIXhOXaXHmIcPJCD3qB4DnW2KRG7bIlKOoHmhye4EL8NBCYTtT2egEspiVhDtaOj7k5R1BRFTVHUFEXtv1DneUIppd/GYkF578EYA9baKRgLqtYKx3FMw1hQ2ApsGYWfUjYC+xnKOQfXdfVX31tGfSrnDPu+D4MwFtQKCGNBhRCmQRgLCosxToEwNtRKiqKmKGqKoiYbhaA3SsIaqp3CEogCeAEvku6d4eWY8gAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b9b522f674f269be147530f3575d344f.png" xmlns="">04WlkKcVDakSlTjflGyL5Ng</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

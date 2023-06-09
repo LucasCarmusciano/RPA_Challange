@@ -1,0 +1,14 @@
+﻿{
+  "Id": "wBWe0YdVJkW9yTbMAQj4pQ",
+  "Reference": "J_mmPfVOEkONRx52zuZDrA/wBWe0YdVJkW9yTbMAQj4pQ",
+  "ParentRef": "J_mmPfVOEkONRx52zuZDrA/WddZlP97cE-xvEc2sEhMbg",
+  "Name": "Click 'Previous Locations'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-06-09T00:49:05.6654851Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-09T00:49:05.6654851Z"
+}

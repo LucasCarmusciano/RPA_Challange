@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WUnsg7leIk-Nq1cu8CdqSQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.rpachallenge.com/" CvElementArea="490, 77, 1428, 916" CvTextArea="778, 234, 679, 26" CvTextArgument="Your success rate is 100% ( 70 out of 70 fields) in 220416 milliseconds" CvType="InputBox" DesignTimeRectangle="495, 233, 1246, 30" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'Your success'" FullSelectorArgument="&lt;webctrl class='message2' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='message2' tag='DIV' type='' /&gt;" Guid="c1ffff2a-f9ee-47a8-9710-67e7f2edfb03" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4037aa121370bf11cda21b5e3cc76b67.png" xmlns="">01xLkMdnV706yzfUYoImFxQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

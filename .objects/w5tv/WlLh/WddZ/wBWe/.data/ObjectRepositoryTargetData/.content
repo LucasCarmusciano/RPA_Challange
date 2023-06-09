@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-7abUw1500Ctv0LI9O9Kag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="659, 36, 33, 30" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Previous Locations'" FullSelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Address band toolbar' /&gt;&lt;ctrl name='Address band toolbar' role='tool bar' /&gt;&lt;ctrl name='Previous Locations' role='push button' /&gt;" FuzzySelectorArgument="&lt;wnd cls='ToolbarWindow32' title='Address band toolbar' /&gt;&lt;ctrl name='Address band toolbar' role='tool bar' /&gt;&lt;ctrl name='Previous Locations' role='push button' automationid='' check:text='Previous Locations' /&gt;" Guid="a0ad339c-6b17-4254-8443-e05b0bef291f" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACUAAAAiCAYAAADYmxC7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACeSURBVFhH7dJRCsMgEIThHt1LeCjxBB7E5w0DtU1KIZPNFpYyPwhGA36YPCxhOVFjDMs2Ut0UQEios4RiE4pNKDah2P4b1Xu3Oefz6R3WsHelEFRrzUopVms9wDDHGvbwDlsIan/4gn1bYwv7fJ8ILwiF/uh7mBeEQlFowbwgFI5CwHhB6CeouwnFJhSbUGxCsb1QmGQbqW5qlRBltgFKNEZiOl5k1QAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="31460d2d343e9e8f227a7b5bbb4edca1.png" xmlns="">0leCEUmUeGU29DBdydsc2bw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

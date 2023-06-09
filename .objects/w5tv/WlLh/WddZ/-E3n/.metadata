@@ -1,0 +1,14 @@
+﻿{
+  "Id": "-E3ncibHfkO-v-_bhTVo3w",
+  "Reference": "J_mmPfVOEkONRx52zuZDrA/-E3ncibHfkO-v-_bhTVo3w",
+  "ParentRef": "J_mmPfVOEkONRx52zuZDrA/WddZlP97cE-xvEc2sEhMbg",
+  "Name": "Click 'Address band toolbar'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-06-08T22:21:15.2555227Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-08T22:21:15.2555227Z"
+}

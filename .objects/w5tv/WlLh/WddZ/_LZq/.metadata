@@ -1,0 +1,14 @@
+﻿{
+  "Id": "_LZq9ZGa10WwbMvooSP4_w",
+  "Reference": "J_mmPfVOEkONRx52zuZDrA/_LZq9ZGa10WwbMvooSP4_w",
+  "ParentRef": "J_mmPfVOEkONRx52zuZDrA/WddZlP97cE-xvEc2sEhMbg",
+  "Name": "Type Into 'Address This PC'",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-06-09T00:50:55.261559Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-09T00:50:55.261559Z"
+}

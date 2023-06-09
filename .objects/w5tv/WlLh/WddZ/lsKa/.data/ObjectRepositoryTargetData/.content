@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BD3jOwpqdkKqNFsajVCTDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" Accuracy="0.97" DesignTimeRectangle="135, 36, 15, 29" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'Open'" FullSelectorArgument="&lt;wnd ctrlid='1001' /&gt;&lt;ctrl role='tool bar' /&gt;&lt;ctrl name='All locations' role='split button' /&gt;&lt;ctrl name='Open' role='drop down button' /&gt;" FuzzyAccuracy="0.59" FuzzySelectorArgument="&lt;wnd ctrlid='1001' title='Address:' /&gt;&lt;ctrl name='Address:' role='tool bar' /&gt;&lt;ctrl name='All locations' role='split button' /&gt;&lt;ctrl name='Open' role='drop down button' automationid='' check:text='Open' /&gt;" Guid="839a7ed0-3314-4ea5-a860-9375efe0fe33" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABMAAAAhCAYAAAA74pBqAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB7SURBVEhL7dY7CsAgEEXRLN3ShbgILV2GGxEE4QWDpYxOeIQUc0EEi4OfxgvEuFgpBazx42POmZJh+gzTJ2K1VqSU0HufK3IiFmOEcw4hhCNQxAYwoFNwe2etNXjvHzDnPFfXfbcz6p1RX1ObYfoM08fFVh+Qt4O4M+AGHLqd/FVSolMAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="FuzzySelector, Image" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="499e769a62171392bf0170958d8f7e00.png" xmlns="">0i3psh2pqsUu_bI92soqOCg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

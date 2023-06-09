@@ -1,0 +1,14 @@
+﻿{
+  "Id": "EKx1DmZ2DE-rZizb5s4v8g",
+  "Reference": "J_mmPfVOEkONRx52zuZDrA/EKx1DmZ2DE-rZizb5s4v8g",
+  "ParentRef": "J_mmPfVOEkONRx52zuZDrA/WddZlP97cE-xvEc2sEhMbg",
+  "Name": "Click 'Desktop'",
+  "Type": "Element",
+  "TaxonomyType": "Listbox",
+  "Created": "2023-06-09T00:42:44.1721574Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-09T00:42:44.1721574Z"
+}
